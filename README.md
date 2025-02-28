@@ -1,2 +1,3 @@
-# ICT205_GESTION_DE_NOTES
-Projet de gestion de notes ICT205 groupe N°9
+# TPICT205_G9_2025_Importation
+Projet de gestion du paramétrage système 
+ICT205 groupe N°9
